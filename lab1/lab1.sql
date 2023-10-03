@@ -11,3 +11,5 @@ SELECT * FROM Categories
 -- Use "", [] to select from table named with space
 SELECT * FROM [Order Details] WHERE OrderID = 10250
 SELECT * FROM "Order Details" WHERE OrderID = 10250
+
+-- TODO: 2 pierwsze zestawy cwiczen
